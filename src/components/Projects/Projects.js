@@ -28,7 +28,6 @@ function Projects() {
               title="Glitter"
               description="Proyecto de ecommerce, tienda virtual realizada con react.js y node.js para propositos personales a futuro."
               ghLink="https://github.com/AngelCamargo404/Glitter"
-              demoLink="https://glitter.herokuapp.com/"
             />
           </Col>
 

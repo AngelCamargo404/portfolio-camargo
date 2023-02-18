@@ -39,10 +39,10 @@ function Home2() {
               <i>
                 <b className="purple">
                   {" "}
-                  JavasScript moderno, y a su vez
+                  JavasScript moderno, y a su vez,
                 </b>
               </i>
-              &nbsp; como
+              &nbsp; 
               <i>
                 <b className="purple"> MySQL con PHP y Laravel</b>
               </i>
