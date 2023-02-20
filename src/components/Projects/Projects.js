@@ -28,6 +28,7 @@ function Projects() {
               title="Glitter"
               description="Proyecto de ecommerce, tienda virtual realizada con react.js y node.js para propositos personales a futuro."
               ghLink="https://github.com/AngelCamargo404/Glitter"
+              demoLink="#"
             />
           </Col>
 
@@ -36,7 +37,7 @@ function Projects() {
               imgPath={alfaco}
               isBlog={false}
               title="Alfaco App"
-              description="Proyecto realizado para empresa de Peru AlfaCo SAC."
+              description="Proyecto realizado para empresa de Perú llamada Alfa Co SAC."
               demoLink="https://mesadepartes.herokuapp.com/"
             />
           </Col>
